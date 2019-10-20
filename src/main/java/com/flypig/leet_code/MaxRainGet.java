@@ -3,6 +3,9 @@ package com.flypig.leet_code;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://leetcode-cn.com/problems/trapping-rain-water/
+ */
 public class MaxRainGet {
 
     public static int getTopest(int height[], int start){
